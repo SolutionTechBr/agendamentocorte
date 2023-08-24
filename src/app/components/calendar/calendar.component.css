@@ -1,0 +1,9 @@
+.fc-direction-ltr {
+    width: 800px;
+    height: 500px;
+    position: absolute;
+    color: rgb(8, 1, 27);
+    top: 55%;
+    left: 35%;
+    transform: translate(-50%, -50%); /* aplique margens superior e esquerda negativas para centralizar de verdade o elemento */
+}
